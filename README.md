@@ -1,7 +1,5 @@
 # Data_Pipeline_Developement
 
-# CODTECH-Task1-ETL-Pipeline
-
 ## Company Name
 CODTECH IT SOLUTIONS
 
