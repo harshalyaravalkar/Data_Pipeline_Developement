@@ -99,12 +99,12 @@ After running the script, a processed CSV file named `cleaned.csv` will be gener
 
 ## Pipeline Execution
 
-![Pipeline Output](<img width="413" height="105" alt="Screenshot 2026-05-18 201326" src="https://github.com/user-attachments/assets/a709430a-cee6-4a30-96f6-9d2bf64a1933" />
-)
+<img width="413" height="105" alt="Screenshot 2026-05-18 201326" src="https://github.com/user-attachments/assets/93262d83-1496-4e09-b3d7-4c2a764faeb1" />
+
 
 ---
 
 ## Dataset Transformation Result
 
-![Transformation](<img width="1912" height="1017" alt="Screenshot 2026-05-18 202621" src="https://github.com/user-attachments/assets/a772914e-3851-42be-b5e1-bdca303cbe9e" />
-)
+<img width="1912" height="1017" alt="Screenshot 2026-05-18 202621" src="https://github.com/user-attachments/assets/68615abc-734a-432a-b307-35303f5a1b65" />
+
