@@ -76,16 +76,10 @@ Overall, this project successfully demonstrates the implementation of a basic ET
 ```bash
 CODTECH-Task1-ETL-Pipeline/
 │
-├── etl_pipeline.py
+├── app.py
 ├── cleaned.csv
-├── requirements.txt
 ├── README.md
-└── screenshots/
 ```
-
----
-
----
 
 # How to Run
 
