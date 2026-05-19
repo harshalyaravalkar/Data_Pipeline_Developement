@@ -1,7 +1,7 @@
 # Data_Pipeline_Developement
 
 ## Company Name
-CODTECH IT SOLUTIONS
+CODTECH IT SOLUTIONS PRIVATE LIMITED
 
 ---
 
